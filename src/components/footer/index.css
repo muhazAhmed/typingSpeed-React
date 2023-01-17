@@ -1,0 +1,12 @@
+.page-footer {
+  font-weight: 300;
+  font-size: .8em;
+  text-align: center;
+  color: black;
+  margin-top: 8rem;
+  margin-right: 30rem;
+}
+
+.page-footer-bold {
+  font-weight: bolder;
+}

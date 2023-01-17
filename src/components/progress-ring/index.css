@@ -1,0 +1,22 @@
+circle,
+svg {
+  transition: 1s ease-in-out all;
+  background-color: #f4f5f6;
+}
+
+.progress-ring {
+  border-radius: 100px;
+  background: #f4f5f6;
+  box-shadow: 0rem 0rem 1rem rgba(0, 0, 0);
+  padding: 10px;
+}
+
+.progress-check {
+  position: absolute;
+  font-size: 3em;
+  background-color: #f4f5f6;
+}
+
+.row{
+  margin-right: 20rem;
+}

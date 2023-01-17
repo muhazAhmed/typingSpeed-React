@@ -1,0 +1,43 @@
+.typing-stats {
+  border-radius: 20px;
+  width: 100%;
+  transition: 300ms ease-in-out all;
+  color: black;
+}
+
+.typing-stats-wpm,
+.typing-stats-accuracy {
+  box-shadow: 0rem 0rem 1rem rgba(0, 0, 0);
+  border: 1px solid black;
+  margin-bottom: 20px;
+  padding: 10px;
+  background: white;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.typing-stats-label {
+  background-color: white;
+  font-size: 1.1em;
+  font-weight: 300;
+  color: black;
+}
+
+.typing-stats-value {
+  background-color: white;
+  font-size: 1.25em;
+  font-weight: 800;
+}
+
+.typing-stats-in-progress {
+  opacity: 1;
+  color: #222f3e;
+}
+
+.typing-stats-finished {
+  color: #01a3a4;
+}
+
+.typing-stats-standby {
+  opacity: 0.5;
+}
